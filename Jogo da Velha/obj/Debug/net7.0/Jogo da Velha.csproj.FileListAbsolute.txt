@@ -1,0 +1,14 @@
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\bin\Debug\net7.0\Jogo da Velha.exe
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\bin\Debug\net7.0\Jogo da Velha.deps.json
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\bin\Debug\net7.0\Jogo da Velha.runtimeconfig.json
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\bin\Debug\net7.0\Jogo da Velha.dll
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\bin\Debug\net7.0\Jogo da Velha.pdb
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\obj\Debug\net7.0\Jogo da Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\obj\Debug\net7.0\Jogo da Velha.AssemblyInfoInputs.cache
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\obj\Debug\net7.0\Jogo da Velha.AssemblyInfo.cs
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\obj\Debug\net7.0\Jogo da Velha.csproj.CoreCompileInputs.cache
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\obj\Debug\net7.0\Jogo da Velha.dll
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\obj\Debug\net7.0\refint\Jogo da Velha.dll
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\obj\Debug\net7.0\Jogo da Velha.pdb
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\obj\Debug\net7.0\Jogo da Velha.genruntimeconfig.cache
+C:\Projetos do Visual Studio\Jogo da Velha\Jogo da Velha\obj\Debug\net7.0\ref\Jogo da Velha.dll
